@@ -32,7 +32,7 @@ ng serve and go to http://localhost:4200/
 
 <p align="center">
     <a href="https://flixmovies-82298.firebaseapp.com">
-        <img src="https://github.com/abidakram01/FlixMovies/blob/master/moviesScreen.png" alt="FlixMovies" />
+        <img src="https://github.com/TONNYSAP/netlistfilmes-png/blob/main/NetListFilmes.png" alt="NetList Filmes" />
     </a>
 </p>
 
